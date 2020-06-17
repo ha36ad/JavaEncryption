@@ -3,7 +3,6 @@ import javax.crypto.spec.SecretKeySpec;
 import java.util.Base64;
 import java.util.Scanner;
 
-}
 public static String blowfish (String password); {
      //Ask user for a message + key
     public static void main(String[] args) {
